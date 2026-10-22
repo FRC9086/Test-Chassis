@@ -17,16 +17,16 @@ public final class Constants {
     
     // Driving motor CAN IDs
     // SPARK FLEX CAN IDs
-    public static final int kFrontLeftDrivingCanId  =  ;
-    public static final int kRearLeftDrivingCanId   =  ;
-    public static final int kFrontRightDrivingCanId =  ;
-    public static final int kRearRightDrivingCanId  =  ;
+    public static final int kFrontLeftDrivingCanId  =  2;
+    public static final int kRearLeftDrivingCanId   =  8;
+    public static final int kFrontRightDrivingCanId =  4;
+    public static final int kRearRightDrivingCanId  =  6;
     
     // SPARK MAX CAN IDs
-    public static final int kFrontLeftTurningCanId  =  ;
-    public static final int kRearLeftTurningCanId   =  ;
-    public static final int kFrontRightTurningCanId =  ;
-    public static final int kRearRightTurningCanId  =  ;
+    public static final int kFrontLeftTurningCanId  =  3;
+    public static final int kRearLeftTurningCanId   =  9;
+    public static final int kFrontRightTurningCanId =  5;
+    public static final int kRearRightTurningCanId  =  7;
 
     // // Utilities can IDs
     // public static final int kSpinningMotor = 10;
