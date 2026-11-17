@@ -18,20 +18,20 @@ Drive Ratio = 5.27:1
 
 <h2>CANS</h2>
 
-[0] - Factory CAN ID
+<b>[0] - Factory CAN ID</b>
 
 <b>[1-9] - System (RIO, PDH)</b><br>
 &nbsp;&nbsp;&nbsp;- RoboRio [1]<br>
 &nbsp;&nbsp;&nbsp;- CTR Pigeon 2.0 [2]<br>
 
-[10-19] - Driving motors (x60 Krakens)<br>
+<b>[10-19] - Driving motors (x60 Krakens)</b><br>
 &nbsp;&nbsp;&nbsp;- Front Left [10]<br>
 &nbsp;&nbsp;&nbsp;- Front Right [11]<br>
 &nbsp;&nbsp;&nbsp;- Back Right [12]<br>
 &nbsp;&nbsp;&nbsp;- Back Left [13]<br>
 
-[20-29] - Turning motors (x44 Krakens)
+<b>[20-29] - Turning motors (x44 Krakens)</b>
 
-[30-39] - Kraken encoders
+<b>[30-39] - Kraken encoders</b>
 
-[40-63] - Mechanisms
+<b>[40-63] - Mechanisms</b>
