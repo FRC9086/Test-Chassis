@@ -2,7 +2,7 @@
 This repo is for the Kraken test chassis
 
 <h1> Phoenix Tuner X Mechanisms Parameters </h1>
-WHeel Radius = 2 in
+Wheel Radius = 2 in
 
 FL to FR distance (in) = 24
 
@@ -21,6 +21,7 @@ Drive Ratio = 5.27:1
 [1-9] - System (RIO, PDH)
 
 [10-19] - Driving motors (x60 Krakens)
+&nbsp;&nbsp;-Hi
 
 [20-29] - Turning motors (x44 Krakens)
 
