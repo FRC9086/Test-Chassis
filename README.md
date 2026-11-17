@@ -20,7 +20,7 @@ Drive Ratio = 5.27:1
 
 [0] - Factory CAN ID
 
-[1-9] - System (RIO, PDH)<br>
+<b>[1-9] - System (RIO, PDH)</b><br>
 &nbsp;&nbsp;&nbsp;- RoboRio [1]<br>
 &nbsp;&nbsp;&nbsp;- CTR Pigeon 2.0 [2]<br>
 
