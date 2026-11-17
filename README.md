@@ -22,8 +22,7 @@ Drive Ratio = 5.27:1
 
 [1-9] - System (RIO, PDH)
 
-[10-19] - Driving motors (x60 Krakens)
-
+[10-19] - Driving motors (x60 Krakens)<br>
 &nbsp;&nbsp;&nbsp;- Front Left [10]<br>
 &nbsp;&nbsp;&nbsp;- Front Right [11]<br>
 &nbsp;&nbsp;&nbsp;- Back Right [12]<br>
