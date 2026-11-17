@@ -1,7 +1,7 @@
-# Description
+<h1> Description</h1>
 This repo is for the Kraken test chassis
 
-# Phoenix Tuner X Mechanisms Parameters
+<h1> Phoenix Tuner X Mechanisms Parameters </h1>
 WHeel Radius = 2 in
 
 FL to FR distance (in) = 24
