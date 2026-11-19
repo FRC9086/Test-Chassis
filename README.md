@@ -20,7 +20,7 @@ Drive Ratio = 5.27:1
 
 <b>[0] - Factory CAN ID</b>
 
-<b>[1-9] - System (RIO, PDH)</b><br>
+<b>[1-9] - System (PDH, Gyro)</b><br>
 &nbsp;&nbsp;&nbsp;- Power Distro. Hub [1]<br>
 &nbsp;&nbsp;&nbsp;- CTR Pigeon 2.0 [2]<br>
 
@@ -42,4 +42,4 @@ Drive Ratio = 5.27:1
 &nbsp;&nbsp;&nbsp;- Back Right [32]<br>
 &nbsp;&nbsp;&nbsp;- Back Left [33]<br>
 
-<b>[40-63] - Mechanisms</b>
+<b>[40-63] - Mechanisms (Intake, Shooter, Climber)</b>
