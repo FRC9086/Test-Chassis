@@ -16,12 +16,12 @@ Module Type = SDS MK5i
 
 Drive Ratio = 5.27:1
 
-<h2>CANS</h2>
+<h2> CAN IDs </h2>
 
 <b>[0] - Factory CAN ID</b>
 
 <b>[1-9] - System (RIO, PDH)</b><br>
-&nbsp;&nbsp;&nbsp;- RoboRio [1]<br>
+&nbsp;&nbsp;&nbsp;- Power Distro. Hub [1]<br>
 &nbsp;&nbsp;&nbsp;- CTR Pigeon 2.0 [2]<br>
 
 <b>[10-19] - Driving motors (x60 Krakens)</b><br>
@@ -30,8 +30,16 @@ Drive Ratio = 5.27:1
 &nbsp;&nbsp;&nbsp;- Back Right [12]<br>
 &nbsp;&nbsp;&nbsp;- Back Left [13]<br>
 
-<b>[20-29] - Turning motors (x44 Krakens)</b>
+<b>[20-29] - Turning motors (x44 Krakens)</b><br>
+&nbsp;&nbsp;&nbsp;- Front Left [20]<br>
+&nbsp;&nbsp;&nbsp;- Front Right [21]<br>
+&nbsp;&nbsp;&nbsp;- Back Right [22]<br>
+&nbsp;&nbsp;&nbsp;- Back Left [23]<br>
 
-<b>[30-39] - Kraken encoders</b>
+<b>[30-39] - Kraken encoders</b><br>
+&nbsp;&nbsp;&nbsp;- Front Left [30]<br>
+&nbsp;&nbsp;&nbsp;- Front Right [31]<br>
+&nbsp;&nbsp;&nbsp;- Back Right [32]<br>
+&nbsp;&nbsp;&nbsp;- Back Left [33]<br>
 
 <b>[40-63] - Mechanisms</b>
